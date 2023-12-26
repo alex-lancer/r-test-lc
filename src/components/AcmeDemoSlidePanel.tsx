@@ -1,5 +1,5 @@
 import React, { FC, ReactElement } from 'react';
-import { Box, Modal } from '@mui/material';
+import { Modal } from '@mui/material';
 
 import './AcmeDemoSlidePanel.css';
 
