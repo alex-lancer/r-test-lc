@@ -1,0 +1,10 @@
+.AcmeDemoSlidePanel {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    top: 0;
+    width: 80%;
+    background: white;
+
+    padding: 16px;
+}
